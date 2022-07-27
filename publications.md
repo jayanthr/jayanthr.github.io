@@ -16,6 +16,9 @@ show_excerpts: false
 
 #### Dissertation:
 
+Integrating computational and participatory simulations for design in complex systems. 
+Supervised by Sebastiaan Meijer and Gunnar Flotterod, Defended at KTH in August 2017. 
+
 #### Conference Publications:
 
 1. Mohamed Nezar Abourraja, Luca Marzano, Jayanth Raghothama, Adam S. Darwich and Sebastiaan Meijer. 2022. “A Data-Driven Discrete Event Simulation Model To Improve Emergency Department Logistics”. In Winter Simulation Conference 2022. Forthcoming.
