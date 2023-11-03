@@ -105,3 +105,9 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Twitter
+    url: https://twitter.com/jayanthr
+    icon: fas fa-twitter-square
+  - title: Linkedin
+    url: https://www.linkedin.com/in/jayanthraghothama/
+    icon: fas fa-linkedin-square
