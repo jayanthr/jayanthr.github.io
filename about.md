@@ -6,7 +6,7 @@ entries_layout: list
 ---
 # About
 
-I am Associate Professor of Healthcare Logistics, and Vice-Director of the Digitalization Platform at KTH Royal Institute of Technology. 
+I am Associate Professor of Healthcare Logistics, and Vice-Director of the Digitalization Platform at KTH Royal Institute of Technology, Stockholm, Sweden. Also associated with Digital Futures, as one of their faculty. 
 
 I build models to improve decision making in complex processes. The models are either simulation-based, data driven or participatory, but more often than not are a combination of the three. I work mainly in healthcare, but have previously worked in urban planning, transportation, energy, agriculture and disaster management.
 
