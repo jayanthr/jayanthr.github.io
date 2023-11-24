@@ -1,16 +1,14 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+Jayanth Raghothama:
+  name: Jayanth Raghothama
+  picture: /images/profil.jpg
+  twitter: "@jayanthr"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/jayanthr
       icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+    - title: Linkedin
+      url: https://www.linkedin.com/in/jayanthraghothama/
+      icon: fab fa-linkedin-square
