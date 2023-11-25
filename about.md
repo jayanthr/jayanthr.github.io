@@ -4,7 +4,7 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-# About
+
 
 I am Associate Professor of Healthcare Logistics, and Vice-Director of the Digitalization Platform at KTH Royal Institute of Technology, Stockholm, Sweden. Also associated with Digital Futures, as one of their faculty. 
 

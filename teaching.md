@@ -4,7 +4,7 @@ limit: 10
 show_excerpts: true
 entries_layout: list
 ---
-# Teaching
+
 
 I am responsible for the following courses:
 

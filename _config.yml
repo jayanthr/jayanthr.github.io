@@ -79,6 +79,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
+
 # Front Matter Defaults
 defaults:
   # Posts defaults
@@ -88,6 +94,12 @@ defaults:
     values:
       layout: post
       share: true
+  - scope:
+      path: "_research"
+      type: research
+    values:
+      layout: post
+      share: false
 
 # Site Author
 author: 
