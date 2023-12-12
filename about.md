@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: home
 limit: 10
+title: About
 show_excerpts: true
 entries_layout: list
 ---
