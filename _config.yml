@@ -104,7 +104,7 @@ defaults:
 # Site Author
 author: 
   name: Jayanth Raghothama
-  picture: JR
+  picture: "/images/profil.jpg"
   email: jayanthr@kth.se
   twitter: jayanthr
   linkedin: jayanthraghothama
