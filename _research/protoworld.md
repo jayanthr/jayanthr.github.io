@@ -2,7 +2,7 @@
 title: ProtoWorld
 order: 3
 image: 
-    path: /images/DZ.png
+    path: /images/DZ.jpg
     thumbnail: /images/dz_thumbnail.png
 ---
 ProtoWorld is a platform to develop distributed simulations oriented mainly towards urban simulations. The platform is a distributed, integrated and interactive urban simulation capable of integrating vehicular and pedestrian simulations. ProtoWorld contains interfaces to SUMO, Vissim, MatSim and integrates with custom pedestrian simulations.
