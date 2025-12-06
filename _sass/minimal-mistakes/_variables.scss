@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 16px !default;
+$doc-font-size: 14px !default;
 $doc-font-size-medium: $doc-font-size * 1.125 !default;
 $doc-font-size-large: $doc-font-size * 1.25 !default;
 $doc-font-size-x-large: $doc-font-size * 1.375 !default;
@@ -34,7 +34,7 @@ $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
 $transitional: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
 $old-style: 'Iowan Old Style', 'Palatino Linotype', 'URW Palladio L', P052, serif;;
 $monospace-slab-serif: 'Nimbus Mono PS', 'Courier New', monospace;
-$slab-serif: Rockwell, 'Rockwell Nova', 'Roboto Slab', 'DejaVu Serif', 'Sitka Small', serif;
+$slab-serif: 'Roboto Slab', Rockwell, 'Rockwell Nova', 'DejaVu Serif', 'Sitka Small', serif;
 $antique: Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif;
 $didone: Didot, 'Bodoni MT', 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serif;
 
@@ -52,7 +52,7 @@ $monospace-code: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consol
 $handwritten: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
 
 /* Defaults used in Minimal mistakes */
-$default-sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$default-sans-serif: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $default-serif: Georgia, Times, serif;
 $default-monospace: Monaco, Consolas, "Lucida Console", monospace;
 
@@ -60,14 +60,14 @@ $default-monospace: Monaco, Consolas, "Lucida Console", monospace;
 $emoji-native: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 
 /* system typefaces */
-$serif: $default-serif !default;
-$sans-serif: $default-sans-serif !default;
-$sans-serif-narrow: $sans-serif !default;
-$monospace: $default-monospace !default;
+$serif: 'Roboto Slab', !default;
+$sans-serif: 'Roboto Slab', !default;
+$sans-serif-narrow: 'Roboto Slab', !default;
+$monospace: 'Roboto Slab', !default;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
-$caption-font-family: $serif !default;
+$global-font-family: 'Source Sans Pro' !default;
+$header-font-family: 'Roboto Slab', !default;
+$caption-font-family: 'Roboto Slab', !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
