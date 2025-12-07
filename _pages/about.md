@@ -6,15 +6,8 @@ filename: _pages/about.md
 permalink: /
 ---
 
+I'm a computer scientist, passionate about complex, pluralistic and equitable development of technical systems. I currently work in healthcare, at the intersection of models, diagnostics and data. Formally, I am an Associate Professor of Healthcare Logistics at KTH Royal Institute of Technology. 
 
+My current research centers around the use and improvement of data in healthcare, from improving data inter-operability through knowledge graphs and large language models, to early detection of diseased in primary care and uncertain contexts, and developing data-driven methods to understand and improve logistics functions in care delivery. 
 
-
-I am Associate Professor of Healthcare Logistics at KTH Royal Institute of Technology, Stockholm, Sweden. Also associated with Digital Futures, as one of their faculty. 
-
-I build models to improve decision making in complex processes. The models are either simulation-based, data driven or participatory, but more often than not are a combination of the three. I work mainly in healthcare, but have previously worked in urban planning, transportation, energy, agriculture and disaster management.
-
-I teach courses on Applied Machine Learning, at the first, second and third cycle levels (Bachelors, Masters and PhD). I also teach modules on Simulation Thinking, Agent-Based Modeling, AI/ML ethics, Health Informatics and Logistics for various other courses. 
-
-My research interests are in the areas of Complex Systems, Healthcare, Policy Design and in the philosophy of games and simulations.
-
-I completed my Ph D at KTH in 2017. Previously, I worked in the software industry and for a think tank in Bangalore. Scholar and Linkedin are the best places to find my work.
+I've spent most of my career in Academia, but have previously spent time in industry, as well as non-profit policy research. 

@@ -6,6 +6,9 @@ filename: _pages/teaching.md
 permalink: /teaching
 ---
 
+## Data-drive Health
+
+I am the Program Director of the Master's Program in Data-driven Health. 
 
 I am responsible for the following courses:
 
