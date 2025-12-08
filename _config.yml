@@ -127,19 +127,19 @@ author:
        # url: "https://your-website.com"
     - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
-      url: "https://twitter.com/"
+      url: "https://bsky.app/profile/jayanthr.bsky.social"
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
     #  # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/jayanthr"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/jayanthraghothama/"
     - label: "Scholar"
       icon: "fab fa-fw fa-google-scholar"
-      url: "https://instagram.com/"
+      url: "https://scholar.google.se/citations?user=ePTDB8IAAAAJ&hl=en"
 
 
 # Site Footer
@@ -329,11 +329,17 @@ defaults:
       author_profile: true
   - scope:
       path: ""
-      type: posts
+      type: blog
     values:
       layout: single
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      # share: true
       related: true
+
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
+
