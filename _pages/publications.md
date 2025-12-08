@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: Publications
 filename: _pages/publications.md
-permalink: /publications
+permalink: /publications/
 toc: true
 ---
 

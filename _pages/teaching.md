@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 title: Teaching
 filename: _pages/teaching.md
-permalink: /teaching
+permalink: /teaching/
 toc: true
 ---
 
