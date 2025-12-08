@@ -38,43 +38,43 @@ Luca Marzano. (2024). [Perspectives on designing data-driven approaches in healt
 
 ## Master's Thesis Students
 
-Karwacki, J. (2025). [Development of a Word Embedding adapted to Swedish Medical Terms](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-361417)(Issue 2025:019) [Master’s Thesis, KTH, Biomedical Engineering and Health Systems].
+Karwacki, J. (2025). [Development of a Word Embedding adapted to Swedish Medical Terms](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-361417).
 
-Eivinsson, T. (2024). [Utilizing Primary Health Care Data for Early Detection of Colorectal Cancer: A Machine Learning Approach](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-347253) (Issue 2024:117) [Master’s Thesis, KTH, Biomedical Engineering and Health Systems].
+Eivinsson, T. (2024). [Utilizing Primary Health Care Data for Early Detection of Colorectal Cancer: A Machine Learning Approach](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-347253).
 
-Sadegh Bozorgi, S. (2024). [Natural Language Processing of Primary Care Data for Early Detection of Colorectal Cancer](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-352824) (Issue 2024:116) [Master’s Thesis, KTH, School of Engineering Sciences in Chemistry, Biotechnology and Health (CBH)].
+Sadegh Bozorgi, S. (2024). [Natural Language Processing of Primary Care Data for Early Detection of Colorectal Cancer](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-352824).
 
 Costa, R. A. S. (2024). [Exploring Innovative Ways to enhance Multiple Criteria Decision Analysis and MACBETH in Health Settings with Big Data and Data Intelligence.](https://fenix.tecnico.ulisboa.pt/downloadFile/1407770020547952/Master_Thesis.pdf)
 
-Carrera Jeri, P. (2023). [Risk Stratification of Endometriosis through Machine Learning using Lifestyle Data: An Extensive Analysis on Lifestyle Data to Reveal Patterns in People with Endometriosis](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329331) (Issue 2023:048) [Master’s Thesis, KTH, School of Engineering Sciences in Chemistry, Biotechnology and Health (CBH)].
+Carrera Jeri, P. (2023). [Risk Stratification of Endometriosis through Machine Learning using Lifestyle Data: An Extensive Analysis on Lifestyle Data to Reveal Patterns in People with Endometriosis](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-329331).
 
-Jefford-Baker, B. (2022). [Autonomous Patient Monitoring in the Intermediate Care Unit by Live Video Analysis](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-314919) (Issue 2022:104) [Master’s Thesis, KTH, School of Engineering Sciences in Chemistry, Biotechnology and Health (CBH)].
+Jefford-Baker, B. (2022). [Autonomous Patient Monitoring in the Intermediate Care Unit by Live Video Analysis](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-314919).
 
-Lindberg, T. (2022). [Early Detection and Differentiation of Circulatory Shock in the Intensive Care Unit using Machine Learning](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-309342) (Issue 2022:009) [Master’s Thesis, KTH, School of Engineering Sciences in Chemistry, Biotechnology and Health (CBH)].
+Lindberg, T. (2022). [Early Detection and Differentiation of Circulatory Shock in the Intensive Care Unit using Machine Learning](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-309342).
 
-Malm, E. (2022). [Machine Learning for Early Prediction of Pneumothorax in the Intensive Care Unit](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-309330) (Issue 2022:010) [Master’s Thesis, KTH Royal Institute of Technology].
+Malm, E. (2022). [Machine Learning for Early Prediction of Pneumothorax in the Intensive Care Unit](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-309330).
 
-Rosamilia, U. (2022). [Applying Nonlinear Mixed-Effects Modeling to Model Patient Flow in the Emergency Department: Evaluation of the Impact of Patient Characteristics on Emergency Department Logistics](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-314814) (Issue 2022:098) [Master’s Thesis, KTH, Biomedical Engineering and Health Systems].
+Rosamilia, U. (2022). [Applying Nonlinear Mixed-Effects Modeling to Model Patient Flow in the Emergency Department: Evaluation of the Impact of Patient Characteristics on Emergency Department Logistics](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-314814).
 
-Wadhwa, R. (2019). [Systems mapping ofwork-stress mental health inStockholm to inform policydecision making](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-263721) (Issue 2019:134) [Master’s Thesis, KTH, Biomedical Engineering and Health Systems].
+Wadhwa, R. (2019). [Systems mapping ofwork-stress mental health inStockholm to inform policydecision making](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-263721).
 
-Dizdarevic, S., & Hämäläinen, A. (2018). [Developing a simulation model for decision making in a further digitized Swedish healthcare system](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-232972) (Issue 2018:110) [Master’s Thesis, KTH, Biomedical Engineering and Health Systems].
+Dizdarevic, S., & Hämäläinen, A. (2018). [Developing a simulation model for decision making in a further digitized Swedish healthcare system](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-232972).
 
-Skoglund, P., & Peterson, T. (2018). [Development of a Simulation Platform Addressing the Digitalization of the Stockholm Healthcare System](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-227193) (Issue 2018:26) [Master’s Thesis, KTH, School of Engineering Sciences in Chemistry, Biotechnology and Health (CBH)].
+Skoglund, P., & Peterson, T. (2018). [Development of a Simulation Platform Addressing the Digitalization of the Stockholm Healthcare System](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-227193).
 
-Nilsson Hall, R., & Jerjas, A. (2017). [Specifying an ontology framework to model processes in hospitals]((https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-202757)) (Issue 2017:26) [Master’s Thesis, KTH, Health Systems Engineering].
+Nilsson Hall, R., & Jerjas, A. (2017). [Specifying an ontology framework to model processes in hospitals]((https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-202757)).
 
 ## Bachelor's Thesis Students
 
-Ojanne, B., & Springer, S. (2025). [Efterkorrigering av OCR-genererad text från svenska historiska dokument med hjälp av språkmodeller: En utvärderande studie: Analys av svenska historiska texter med hjälp av OCR, NLP och LLM i samverkan: En modern metod för att tolka det förflutna](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-370657) (TRITA-CBH-GRU, Issue 2025:311, p. 72). KTH, Health Informatics and Logistics. 
+Ojanne, B., & Springer, S. (2025). [Efterkorrigering av OCR-genererad text från svenska historiska dokument med hjälp av språkmodeller: En utvärderande studie: Analys av svenska historiska texter med hjälp av OCR, NLP och LLM i samverkan: En modern metod för att tolka det förflutna](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-370657). 
 
-Stylbäck, J., & Villför, E. (2023). [Endometriosis and Its Correlation with Lifestyle Factors and Health Indicators: A Data Mining Approach Using R and Python](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-344208) (TRITA-CBH-GRU, Issue 2023:111, p. 94). KTH, Biomedical Engineering and Health Systems. 
+Stylbäck, J., & Villför, E. (2023). [Endometriosis and Its Correlation with Lifestyle Factors and Health Indicators: A Data Mining Approach Using R and Python](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-344208). 
 
-Balachandran, S., & Perez Legrand, D. (2023). [Evaluating machine learning models for time series forecasting in smart buildings](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-328400) (TRITA-CBH-GRU, Issue 2023:097, p. 58). KTH, Health Informatics and Logistics. 
+Balachandran, S., & Perez Legrand, D. (2023). [Evaluating machine learning models for time series forecasting in smart buildings](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-328400).
 
-Höstklint, N., & Larsson, J. (2021). [Dynamic Test Case Selection using Machine Learning](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-296634) (TRITA-CBH-GRU, Issue 2021:043, p. 33). KTH, Health Informatics and Logistics. 
+Höstklint, N., & Larsson, J. (2021). [Dynamic Test Case Selection using Machine Learning](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-296634). 
 
-Ingemarsson, M., & Henningsson, J. (2022). [Evaluating the effects of data augmentations for specific latent features: Using self-supervised learning](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-313677) (TRITA-CBH-GRU, Issue 2022:057, p. 80). KTH, Health Informatics and Logistics. 
+Ingemarsson, M., & Henningsson, J. (2022). [Evaluating the effects of data augmentations for specific latent features: Using self-supervised learning](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-313677). 
 
-Nordlund, A., & Ålander, N. (2019). [Forecast Modelling of Future Events that Affect the Repayment Capacity of Mortgages](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-252808) (TRITA-CBH-GRU, Issue 2019:036, p. 80). KTH, Health Informatics and Logistics. 
+Nordlund, A., & Ålander, N. (2019). [Forecast Modelling of Future Events that Affect the Repayment Capacity of Mortgages](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-252808). 
 
