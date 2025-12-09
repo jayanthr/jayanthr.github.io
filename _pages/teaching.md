@@ -11,11 +11,9 @@ toc: true
 
 I am the Program Director of the Master's Program in [Data-driven Health](https://www.kth.se/en/studies/master/data-driven-health/msc-data-driven-health-1.1338283) at KTH Royal Institute of Technology. The program started in Fall 2025, is highly competetive with an acceptance rate of <10%. 
 
-## Courses
+## Taught Courses
 
-I am responsible for the following courses:
-
-1. [Healthcare Ethics, Legal and Social Impact](https://www.kth.se/student/kurser/kurs/CM2029?l=en). Given for the first time in fall 2025.  
+1. [Healthcare Ethics, Legal and Social Impact](https://www.kth.se/student/kurser/kurs/CM2029?l=en). Given for the first time in fall 2025. For a description of the course, and the reading material, see [here]({% link _blog/2025-12-08-health-data-course.md %}). 
 2. [Applied Machine Learning and Data Mining CM1001](https://www.kth.se/student/kurser/kurs/CM1001?l=en). Given every spring since 2020.  
 3. [Applied Machine Learning and Data Mining for Performance Analysis CM2007](https://www.kth.se/student/kurser/kurs/CM2007?l=en). Given every spring since 2020.  
 4. [Applied Machine Learning and Artificial Intelligence CM2011](https://www.kth.se/student/kurser/kurs/CM2011?l=en). Given every spring since 2021.  
