@@ -7,7 +7,8 @@ permalink: /publications/
 toc: true
 ---
 
-## Journal Articles
+##### Journal Articles
+
 
 Hellstrand, M., **Raghothama, J.**, & Meijer, S. (2025). [FAIR for whom? A reality check on the state of FAIR research data management in a collaborative research project.](https://doi.org/10.1177/20539517251349157) Big Data & Society, 12(2), 20539517251349157.
 
@@ -33,7 +34,8 @@ Marzano, L., Darwich, A. S., Tendler, S., Dan, A., Lewensohn, R., De Petris, L.,
 
 **Raghothama, J.**, Meijer, S., & King, R. (2012). [Disentangling the complexity of India ’s agricultural sector.](https://doi.org/10.19041/APSTRACT/2012/1-2/4) Applied Studies in Agribusiness and Commerce, 6(1–2), 35–42.
 
-## Conference Papers
+##### Conference Papers 
+
 
 Haraldsson, T., Marzano, L., Krishna, H., Lethval, S., Falk, N., Bodeby, P., **Raghothama, J.**, Meijer, S., & Darwich, A. S. (2024). [Exploring Hospital Overcrowding with an Explainable Time-to-Event Machine Learning Approach.](https://doi.org/10.3233/SHTI240505) In Digital Health and Informatics Innovations for Sustainable Health Care Systems (pp. 678–682). IOS Press.
 

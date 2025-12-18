@@ -7,34 +7,34 @@ permalink: /teaching/
 toc: true
 ---
 
-## Data-driven Health
+##### Data-driven Health
 
 I am the Program Director of the Master's Program in [Data-driven Health](https://www.kth.se/en/studies/master/data-driven-health/msc-data-driven-health-1.1338283) at KTH Royal Institute of Technology. The program started in Fall 2025, is highly competetive with an acceptance rate of <10%. 
 
-## Taught Courses
+##### Courses
 
 1. [Healthcare Ethics, Legal and Social Impact](https://www.kth.se/student/kurser/kurs/CM2029?l=en). Given for the first time in fall 2025. For a description of the course, and the reading material, see [here]({% link _blog/2025-12-08-health-data-course.md %}). 
 2. [Applied Machine Learning and Data Mining CM1001](https://www.kth.se/student/kurser/kurs/CM1001?l=en). Given every spring since 2020.  
 3. [Applied Machine Learning and Data Mining for Performance Analysis CM2007](https://www.kth.se/student/kurser/kurs/CM2007?l=en). Given every spring since 2020.  
 4. [Applied Machine Learning and Artificial Intelligence CM2011](https://www.kth.se/student/kurser/kurs/CM2011?l=en). Given every spring since 2021.  
 
-## PhD Students
+##### PhD Students
 
-### Current Students
+###### Current Students
 
 1. Andrew Dwi Permana
 2. Mikaela Hellstrand
 2. Gibril Jarzue
 3. Merja Hietanen
 
-### Past Students
+###### Past Students
 
 Arsineh Boodaghian Asl. (2025). [Network-Agnostic Computational Approaches for Modelling and Validating Evolving Complex Systems](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-358861) [KTH Royal Institute of Technology]. 
 
 Luca Marzano. (2024). [Perspectives on designing data-driven approaches in healthcare based on real-world evidence](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-357636) [KTH Royal Institute of Technology]. 
 
 
-## Master's Thesis Students
+##### Master's Thesis Students
 
 Karwacki, J. (2025). [Development of a Word Embedding adapted to Swedish Medical Terms](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-361417).
 
@@ -62,7 +62,7 @@ Skoglund, P., & Peterson, T. (2018). [Development of a Simulation Platform Addre
 
 Nilsson Hall, R., & Jerjas, A. (2017). [Specifying an ontology framework to model processes in hospitals]((https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-202757)).
 
-## Bachelor's Thesis Students
+##### Bachelor's Thesis Students
 
 Ojanne, B., & Springer, S. (2025). [Efterkorrigering av OCR-genererad text från svenska historiska dokument med hjälp av språkmodeller: En utvärderande studie: Analys av svenska historiska texter med hjälp av OCR, NLP och LLM i samverkan: En modern metod för att tolka det förflutna](https://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-370657). 
 
