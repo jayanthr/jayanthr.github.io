@@ -59,9 +59,9 @@ Lupton, D. (2018). [How do data come to matter? Living and becoming with persona
 #### Seminar 5: Decolonizing Data
 Understand the dominant sources of power, and how they intersect with and shape technology, and mediate what we understand as knowledge and data. 
 
-Boaventura de Sousa Santos: [Beyond Abyssal Thinking: From Global Lines to Ecologies of Knowledges](https://www.jstor.org/stable/40241677?seq=9#metadata_info_tab_contents)
+Sousa Santos, Boaventura de. [Beyond Abyssal Thinking: From Global Lines to Ecologies of Knowledges](https://www.jstor.org/stable/40241677?seq=9#metadata_info_tab_contents) Review (Fernand Braudel Center) 30, no. 1 (2007): 45–89. 
 
-Syed Mustafa Ali, [A brief introduction to decolonial computing.](https://dl.acm.org/doi/abs/10.1145/2930886)
+Mustafa, A. (2016). [A brief introduction to decolonial computing.](https://dl.acm.org/doi/abs/10.1145/2930886) XRDS: Crossroads, The ACM Magazine for Students. https://doi.org/10.1145/2930886
 
 Couldry, N., & Mejias, U. A. (2023). [The decolonial turn in data and technology research: What is at stake and where is it heading?](https://doi.org/10.1080/1369118X.2021.1986102) Information, Communication & Society, 26(4), 786–802. 
 
@@ -70,17 +70,17 @@ Grosfoguel, R. (2011). [Decolonizing Post-Colonial Studies and Paradigms of Poli
 #### Seminar 6: Networks, and Surveillance Capitalism
 A deeper dive into how power is accumulated and leveraged in modern technology, companies and institutions. 
 
-Manuel Castells, [A Network Theory of Power](https://ijoc.org/index.php/ijoc/article/view/1136/553)
+Castells, M. (2011). [A Network Theory of Power](https://ijoc.org/index.php/ijoc/article/view/1136/553) International Journal of Communication, 5, 15–15.
 
-Yin Liang, Jeremy Aroles, Bernd Brandl: [Charting platform capitalism: Definitions, concepts and ideologies](https://onlinelibrary.wiley.com/doi/full/10.1111/ntwe.12234)
+Liang, Y., Aroles, J., & Brandl, B. (2022). [Charting platform capitalism: Definitions, concepts and ideologies](https://onlinelibrary.wiley.com/doi/full/10.1111/ntwe.12234) New Technology, Work and Employment, 37(2), 308–327. 
 
-Kean Birch & D. T. Cochrane: [Big Tech: Four Emerging Forms of Digital Rentiership]( https://www.tandfonline.com/doi/full/10.1080/09505431.2021.1932794#d1e130)
+Birch, K., & Cochrane, D. T. (2022). [Big Tech: Four Emerging Forms of Digital Rentiership]( https://www.tandfonline.com/doi/full/10.1080/09505431.2021.1932794#d1e130) Science as Culture, 31(1), 44–58. 
 
-Shoshana Zuboff: [Big other: Surveillance Capitalism and the Prospects of an Information Civilization](https://journals.sagepub.com/doi/abs/10.1057/jit.2015.5)
+Zuboff, S. (2015). [Big other: Surveillance Capitalism and the Prospects of an Information Civilization](https://journals.sagepub.com/doi/abs/10.1057/jit.2015.5) Journal of Information Technology, 30(1), 75–89. 
 
-Nancy Fraser: [Abnormal Justice](https://www.jstor.org/stable/10.1086/589478?seq=4)
+Fraser, N. (2008). [Abnormal Justice](https://www.jstor.org/stable/10.1086/589478?seq=4) Critical Inquiry, 34(3), 393–422. 
 
-Jonathan Cinnamon: [Social Justice in Surveillance Capitalism](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/6433)
+Cinnamon, J. (2017). [Social Justice in Surveillance Capitalism](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/6433) Surveillance & Society, 15(5), 609–625. 
 
 #### Seminar 7: Data Feminism
 A lecture by [Assoc. Prof. Amir H Payberah](https://www.kth.se/profile/payberah) on Data Feminism. More material on this can be found on his [site](https://payberah.github.io/). 
@@ -88,10 +88,10 @@ A lecture by [Assoc. Prof. Amir H Payberah](https://www.kth.se/profile/payberah)
 #### Seminar 8: FAIR
 More on foundations, idealogies, and how proposed solutions fall short.
 
-Wilkinson et. al, [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
+Wilkinson, M. D., et. al. [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618) Scientific Data, 3(1), 160018. 
 
-Bender et. al, [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?]( https://dl.acm.org/doi/abs/10.1145/3442188.3445922)
+Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021). [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?]( https://dl.acm.org/doi/abs/10.1145/3442188.3445922) Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 610–623. 
 
-Gebru and Torres: [The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence](https://firstmonday.org/ojs/index.php/fm/article/view/13636)
+Gebru, T., & Torres, É. P. (2024). [The TESCREAL bundle: Eugenics and the promise of utopia through artificial general intelligence](https://firstmonday.org/ojs/index.php/fm/article/view/13636) First Monday. 
 
-Olteanu et. al: [Rigor in AI: Doing Rigorous AI Work Requires a Broader, Responsible AI-Informed Conception of Rigor](https://arxiv.org/pdf/2506.14652)
+Olteanu, A., Blodgett, S. L., Balayn, A., Wang, A., Diaz, F., Calmon, F. du P., Mitchell, M., Ekstrand, M., Binns, R., & Barocas, S. (2025). [Rigor in AI: Doing Rigorous AI Work Requires a Broader, Responsible AI-Informed Conception of Rigor](https://arxiv.org/pdf/2506.14652)
