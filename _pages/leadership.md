@@ -40,9 +40,6 @@ toc: true
     * International Simulation and Gaming Association Conference
 
 
-
-
-
 ##### Grants
 
 | Year | Project                                                                                                                                     | Amount        | Role                          | Funder             |

@@ -9,6 +9,9 @@ toc: true
 
 ##### Journal Articles
 
+Hietanen, M., Kornevs, M., Bose, C. N., **Raghothama, J.**, & Meijer, S. (2026). [To Choose a Band-Aid”Children’s Preferences for Participation in Health Care Situations: Q Methodology Study](https://doi.org/10.2196/89802). JMIR Human Factors, 13(1), e89802. 
+
+Marzano, L., Dan, A., Darwich, A. S., De Petris, L., Tendler, S., Lewensohn, R., **Raghothama, J.**, & Meijer, S. (2026). [Real-World Evidence of Treatment Outcomes in Small Cell Lung Cancer: A Bayesian Mixed Effects and Competitive Risk Approach](https://doi.org/10.2196/84042). JMIR Cancer, 12, e84042. 
 
 Hellstrand, M., **Raghothama, J.**, & Meijer, S. (2025). [FAIR for whom? A reality check on the state of FAIR research data management in a collaborative research project.](https://doi.org/10.1177/20539517251349157) Big Data & Society, 12(2), 20539517251349157.
 
